@@ -19,7 +19,8 @@ e a somatória dos valores das transações com a taxa de saque aplicada a cada 
 
 
 Body do request do objetivo 1: 
-```{
+```
+{
     initial_date: 'YYYY-MM-DD',
     till_date: 'YYYY-MM-DD',
 }

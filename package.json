@@ -2,9 +2,9 @@
   "name": "test-novo-dev",
   "version": "1.0.0",
   "description": "Teste técnico para novos desenvolvedores Stone",
-  "main": "server.js",
+  "main": "./Config/Start.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "nodemon Start.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tech Stone Partner Program",
